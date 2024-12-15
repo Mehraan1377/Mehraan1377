@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Mehraan1377/Mehraan1377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mehraan1377/Mehraan1377 is a ✨ special ✨ repository because its `voltmeter` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
